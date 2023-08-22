@@ -1,9 +1,17 @@
 <template>
-    <nav>
-        <div class="py-5 flex justify-between items-center">
-            <NuxtLink to="/" class="px-20">Home</NuxtLink>
-            <NuxtLink to="/links" class="px-20">Links</NuxtLink>
-            <NuxtLink to="/works" class="px-20">Works</NuxtLink>
-        </div>
-    </nav>
+    <div class="hidden lg:block fixed z-20 top-[3.8125rem] right-auto w-[19rem] pb-10 pl-8 pr-6 overflow-y-auto">
+        <nav class="text-4xl relative">
+            <ul>
+                <li class="m-4">
+                    <NuxtLink to="/">Home</NuxtLink>
+                </li>
+                <li class="m-4">
+                    <NuxtLink to="/links">Links</NuxtLink>
+                </li>
+                <li class="m-4">
+                    <NuxtLink to="/works">Works</NuxtLink>
+                </li>
+            </ul>
+        </nav>
+    </div>
 </template>
