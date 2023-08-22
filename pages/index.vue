@@ -4,7 +4,7 @@
             <div class="mx-auto max-w-sm my-[1rem] text-center">
                 <h1
                     class="inline-block text-5xl sm:text-5xl font-extrabold text-slate-900 tracking-tight dark:text-slate-200">
-                    Links</h1>
+                    Home</h1>
             </div>
             <h2 class="inline-block text-4xl sm:text-4xl relative border-none lg:-ml-2 lg:pl-2 m-2">自己紹介</h2>
             <p class="my-[0.3em]">筑波大学情報学群 情報科学類所属の笠島です。</p>
@@ -22,6 +22,40 @@
                 <p>2022年10月</p>
                 <p class="text-gray-600">TOEIC 730点</p>
             </div>
+            <h2 class="inline-block text-4xl sm:text-4xl relative border-none lg:-ml-2 lg:pl-2 m-2">経歴</h2>
+            <div class="p-4 mb-2 max-w-lg bg-white rounded-md shadow-lg">
+                <p>2017年4月~2020年3月</p>
+                <p class="text-gray-600">渋谷教育学園渋谷高校</p>
+            </div>
+            <div class="p-4 mb-2 max-w-lg bg-white rounded-md shadow-lg">
+                <p>2020年4月~</p>
+                <p class="text-gray-600">筑波大学情報学群情報科学類</p>
+            </div>
+            <div class="p-4 mb-2 max-w-lg bg-white rounded-md shadow-lg">
+                <p>2022年8月</p>
+                <p class="text-gray-600">いい生活 短期インターン</p>
+                <p class="text-gray-600 text-sm">TypeScript+Vue3を用いたWebアプリケーション作成</p>
+            </div>
+            <div class="p-4 mb-2 max-w-lg bg-white rounded-md shadow-lg">
+                <p>2023年5月~8月</p>
+                <p class="text-gray-600">いい生活 長期インターン</p>
+                <p class="text-gray-600 text-sm">C#を用いたWPFアプリケーションの改良</p>
+            </div>
+            <h2 class="inline-block text-4xl sm:text-4xl relative border-none lg:-ml-2 lg:pl-2 m-2">趣味</h2>
+            <ul role="list" class="list-inside list-disc">
+                <li>
+                    ゲーム
+                    <ul class="list-disc list-inside space-y-0.3 pl-5">
+                        <li>
+                            VALORANT - 最高ダイヤ2
+                        </li>
+                        <li>
+                            Overwatch2 - 最高プラチナ4
+                        </li>
+                    </ul>
+                </li>
+                <li>配信視聴</li>
+            </ul>
         </div>
     </div>
 </template>
