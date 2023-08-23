@@ -47,10 +47,10 @@
                     ゲーム
                     <ul class="list-disc list-inside space-y-0.3 pl-5">
                         <li>
-                            VALORANT - 最高ダイヤ2
+                            VALORANT
                         </li>
                         <li>
-                            Overwatch2 - 最高プラチナ4
+                            Overwatch2
                         </li>
                     </ul>
                 </li>

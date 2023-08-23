@@ -44,6 +44,9 @@
       "assets": [
         "/home/greenteaice/dev/portfolio/assets"
       ],
+      "assets/*": [
+        "/home/greenteaice/dev/portfolio/assets/*"
+      ],
       "public": [
         "/home/greenteaice/dev/portfolio/public"
       ],
