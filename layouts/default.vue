@@ -6,3 +6,10 @@
         </div>
     </div>
 </template>
+<script setup lang="ts">
+useHead({
+    titleTemplate: (title) => {
+        return title ? `${title} - kasatomo` : 'kasatomo'
+    },
+});
+</script>
