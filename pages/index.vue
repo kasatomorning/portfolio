@@ -7,8 +7,8 @@
                     Home</h1>
             </div>
             <h2 class="inline-block text-4xl sm:text-4xl relative border-none lg:-ml-2 lg:pl-2 m-2">自己紹介</h2>
-            <p class="my-[0.3em]">筑波大学情報学群 情報科学類所属の笠島です。</p>
-            <p class="my-[0.3em]">現在大学4年生で、ネットワーク系の研究室に所属しています。</p>
+            <p class="my-[0.3em]">理工情報生命学術院システム情報工学研究群（博士前期課程）情報理工学位プログラム1年次の笠島です。</p>
+            <p class="my-[0.3em]">ネットワーク系の研究室に所属しています。</p>
             <h2 class="inline-block text-4xl sm:text-4xl relative border-none lg:-ml-2 lg:pl-2 m-2">資格</h2>
             <div class="p-4 mb-2 max-w-lg bg-white rounded-md shadow-lg">
                 <p>2021年3月</p>
@@ -40,6 +40,11 @@
                 <p>2023年5月~8月</p>
                 <p class="text-gray-600">いい生活 長期インターン</p>
                 <p class="text-gray-600 text-sm">C#を用いたWPFアプリケーションの改良</p>
+            </div>
+            <div class="p-4 mb-2 max-w-lg bg-white rounded-md shadow-lg">
+                <p>2023年12月~</p>
+                <p class="text-gray-600">ドワンゴ 長期インターン</p>
+                <p class="text-gray-600 text-sm">社内システムのバックエンドの運用・監視</p>
             </div>
             <h2 class="inline-block text-4xl sm:text-4xl relative border-none lg:-ml-2 lg:pl-2 m-2">趣味</h2>
             <ul role="list" class="list-inside list-disc">
